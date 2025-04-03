@@ -46,7 +46,10 @@ class CyberSecurityChatbot
         char F = (char)41; // ")"
         char G = (char)111; // "o"
 
+        //ASCII code colour
         Console.ForegroundColor = ConsoleColor.Cyan;
+
+        //Prints ASCII code characters
         Console.WriteLine("    " + A + "" + B + "       " + C + "" + A);
         Console.WriteLine("   " + B + " " + D + "       " + D + " " + C);
         Console.WriteLine("  " + B + "  " + D + A + A + "   " + A + A + D + "  " + C);
