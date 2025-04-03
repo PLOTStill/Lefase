@@ -37,6 +37,31 @@ class CyberSecurityChatbot
 
     static void Main(string[] args)
     {
+        //ASCII code logo
+        char A = (char)95; // "_"
+        char B = (char)47; // "/" " " * 7
+        char C = (char)92; // "\"
+        char D = (char)124; // "|"
+        char E = (char)40; // "("
+        char F = (char)41; // ")"
+        char G = (char)111; // "o"
+
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.WriteLine("    " + A + "" + B + "       " + C + "" + A);
+        Console.WriteLine("   " + B + " " + D + "       " + D + " " + C);
+        Console.WriteLine("  " + B + "  " + D + A + A + "   " + A + A + D + "  " + C);
+        Console.WriteLine(" " + D + "" + A + "" + A + "" + B + E + E + G + D + " " + D + G + F + F + C + A + A + D);
+        Console.WriteLine(" " + D + "      " + D + " " + D + "      " + D);
+        Console.WriteLine(" " + D + "" + C + "     " + D + A + D + "     " + B + D);
+        Console.WriteLine(" " + D + " " + C + "           " + B + " " + D);
+        Console.WriteLine("  " + C + D + " " + B + "  " + A + A + A + "  " + C + " " + D + B);
+        Console.WriteLine("   " + C + " " + D + " " + B + " " + A + " " + C + " " + D + " " + B);
+        Console.WriteLine("    " + C + A + A + A + A + A + A + A + A + A + B);
+        Console.WriteLine("     " + A + D + A + A + A + A + A + D + A);
+        Console.WriteLine(" " + A + "" + A + A + D + "         " + D + A + A + A);
+        Console.WriteLine(B + "                 " + C);
+        Console.ResetColor();
+
         try
         {
             //Configure speech synthesizer
