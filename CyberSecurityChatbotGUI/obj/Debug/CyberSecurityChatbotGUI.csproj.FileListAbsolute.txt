@@ -1,0 +1,15 @@
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe.config
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.pdb
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.AssemblyReference.cache
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\MainWindow.g.cs
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\App.g.cs
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI_MarkupCompile.cache
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI_MarkupCompile.lref
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\MainWindow.baml
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.g.resources
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Properties.Resources.resources
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.GenerateResource.cache
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\tloup\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.pdb
